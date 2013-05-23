@@ -1,0 +1,36 @@
+{
+	"name": "generator-firefox-os",
+	"version": "0.1.0",
+	"description": "Yeoman Generator for Firefox OS",
+	"main": "app/index.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/zenorocha/generator-firefox-os.git"
+	},
+	"keywords": [
+		"yeoman-generator",
+		"firefox-os"
+	],
+	"author": {
+		"name": "Zeno Rocha",
+		"email": "zno.rocha@gmail.com"
+	},
+	"license": [
+		{
+			"type": "MIT",
+			"url": "http://zenorocha.mit-license.org/"
+		}
+	],
+	"scripts": {
+		"test": "mocha --reporter spec"
+	},
+	"engines": {
+		"node": ">=0.8.0"
+	},
+	"dependencies": {
+		"yeoman-generator": "~0.10.2"
+	},
+	"devDependencies": {
+		"mocha": "~1.9.0"
+	}
+}
