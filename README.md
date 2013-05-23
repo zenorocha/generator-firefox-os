@@ -28,4 +28,4 @@ Check [Robert Nyman's Firefox OS Boilerplate](https://github.com/robnyman/Firefo
 
 ## License
 
-[MIT License](http://zenorocha.mit-license.org/)
+[MIT License](http://zenorocha.mit-license.org/) © Zeno Rocha
