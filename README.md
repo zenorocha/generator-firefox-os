@@ -4,7 +4,7 @@
 
 > A Yeoman generator that provides a functional boilerplate to easily create Firefox OS apps.
 
-## Usage
+## Getting Started
 
 1. Install [Yeoman](https://github.com/yeoman/yo): `npm install -g yo`
 2. Install this generator: `npm install -g generator-firefox-os`
