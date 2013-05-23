@@ -10,7 +10,7 @@ var Generator = module.exports = function() {
     'README.md',
   ];
 
-  this.argument('tarFile');
+  //this.argument('tarFile');
   if (this.tarFile) {
     this.tarball(this.tarFile, process.cwd(), function (err) {
       if (err) {
