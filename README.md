@@ -1,6 +1,6 @@
 # Yeoman Generator for Firefox OS [![Build Status](https://secure.travis-ci.org/zenorocha/generator-firefox-os.png?branch=master)](https://travis-ci.org/zenorocha/generator-firefox-os)
 
-![](http://cl.ly/image/3I3g1L1n0Y1j/firefox-yeoman.jpg)
+![](http://cl.ly/image/0E0S2j3o2F0r/firefox-yeoman.jpg)
 
 > A Yeoman generator that provides a functional boilerplate to easily create Firefox OS apps.
 
