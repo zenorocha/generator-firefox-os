@@ -11,6 +11,10 @@
 3. Run: `yo firefox-os`
 4. Start writing your Firefox OS app :)
 
+## Dependencies
+
+You're going to need [NodeJS](http://nodejs.org/download/) to run those commands.
+
 ## Wanna know more?
 
 Check [Robert Nyman's Firefox OS Boilerplate](https://github.com/robnyman/Firefox-OS-Boilerplate-App) repository.
