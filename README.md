@@ -21,6 +21,10 @@ Check [Robert Nyman's Firefox OS Boilerplate](https://github.com/robnyman/Firefo
 
 ## History
 
+* v0.1.2 July 21, 2013
+	* Added `yo` as peerDependency
+* v0.1.1 May 23, 2013
+	* Removed tarball function
 * v0.1.0 May 23, 2013
 	* Added continous integration using [Travis](https://travis-ci.org/zenorocha/generator-firefox-os/)
 	* Added tests using [Mocha](http://visionmedia.github.io/mocha/)
