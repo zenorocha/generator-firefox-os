@@ -6,7 +6,7 @@
 
 ## Getting Started
 
-1. Install: `[sudo] npm install -g generator-firefox-os`
+1. Install: `npm install -g generator-firefox-os`
 3. Run: `yo firefox-os`
 4. Start writing your Firefox OS app :)
 
