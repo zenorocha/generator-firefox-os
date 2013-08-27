@@ -20,6 +20,8 @@ Check [Robert Nyman's Firefox OS Boilerplate](https://github.com/robnyman/Firefo
 
 ## History
 
+* v0.1.4 August 27, 2013
+	* Updated app template
 * v0.1.3 August 8, 2013
 	* Upgraded to yeoman-generator v0.12
 * v0.1.2 July 21, 2013
