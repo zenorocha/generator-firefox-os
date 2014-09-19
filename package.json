@@ -1,6 +1,6 @@
 {
 	"name": "generator-firefox-os",
-	"version": "0.1.4",
+	"version": "0.1.5",
 	"description": "Yeoman Generator for Firefox OS",
 	"main": "app/index.js",
 	"repository": {
