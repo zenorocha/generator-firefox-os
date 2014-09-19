@@ -1,4 +1,4 @@
-# Yeoman Generator for Firefox OS [![Build Status](https://secure.travis-ci.org/zenorocha/generator-firefox-os.png?branch=master)](https://travis-ci.org/zenorocha/generator-firefox-os)
+# Yeoman Generator for Firefox OS [![Build Status](http://img.shields.io/travis/zenorocha/generator-firefox-os/site.svg?style=flat)](https://travis-ci.org/zenorocha/generator-firefox-os)
 
 ![Firefox OS + Yeoman](https://cloud.githubusercontent.com/assets/398893/3528138/1a01e65c-078c-11e4-808b-9ff17b31e4cf.jpg)
 
